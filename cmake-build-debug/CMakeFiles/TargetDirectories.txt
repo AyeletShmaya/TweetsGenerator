@@ -1,0 +1,3 @@
+/mnt/c/Users/ayele/OneDrive/Documents/Computer_Science/Year1/SemesterB/C_Cpp/C/Exercises/ex3a/cmake-build-debug/CMakeFiles/ex3a.dir
+/mnt/c/Users/ayele/OneDrive/Documents/Computer_Science/Year1/SemesterB/C_Cpp/C/Exercises/ex3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ayele/OneDrive/Documents/Computer_Science/Year1/SemesterB/C_Cpp/C/Exercises/ex3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
